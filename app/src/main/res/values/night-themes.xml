@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General spacing -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+
+    <!-- Floating Action Button -->
+    <dimen name="fab_margin">@dimen/margin_medium</dimen>
+
+    <!-- Fragment margins -->
+    <dimen name="fragment_horizontal_margin">@dimen/margin_medium</dimen>
+
+    <!-- Image / Icon sizes -->
+    <dimen name="image_icon_size_small">24dp</dimen>
+    <dimen name="image_icon_size_medium">48dp</dimen>
+    <dimen name="item_transform_image_length">@dimen/image_icon_size_medium</dimen>
+
+    <!-- Text block layout (reflow/semantic blocks) -->
+    <dimen name="text_block_max_width_percent">1</dimen> <!-- full width -->
+    <dimen name="text_block_horizontal_gap">8dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_title_size">22sp</dimen>
+    <dimen name="text_body_size">16sp</dimen>
+    <dimen name="text_description_size">13sp</dimen>
+
+</resources>

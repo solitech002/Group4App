@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background Colors -->
+    <color name="background_color">#FAFAFA</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="light_background">#f0f0f0</color>
+
+    <!-- Primary Colors -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_variant">#3700B3</color>
+    <color name="secondary">#42A5F5</color>
+    <color name="accent_orange">#FF7043</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_gray">#616161</color>
+
+    <!-- Misc -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="footer_gray">#ECEFF1</color>
+    <color name="error">#B00020</color>
+</resources>
+
+
+

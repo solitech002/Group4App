@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- App -->
+    <string name="app_name">MyApp</string>
+
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <!-- Menu Items -->
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- FAB -->
+    <string name="fab_content_description">Represents a view to invoke an action</string>
+
+    <!-- UI Titles -->
+    <string name="lorem_ipsum_title">Lorem Ipsum</string>
+
+    <!-- Authentication -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log in</string>
+    <string name="signup_text">Sign up here</string>
+
+    <!-- About Us -->
+    <string name="about_us">About Us</string>
+    <string name="medadish_description">
+        MedaDish is your trusted source for personalized dietary advice.
+        We cater to unique health needs and preferences to help you feel better.
+    </string>
+
+    <!-- Recommendations -->
+    <string name="recommendation">Recommendation</string>
+    <string name="enter_symptom">Enter symptom</string>
+    <string name="add_recommendation">Add recommendation</string>
+    <string name="get_recommendation">Get recommendation</string>
+    <string name="recommendations_placeholder">Your personalized recommendations will appear here.</string>
+
+    <!-- Diet Tracking -->
+    <string name="enter_diet">Enter diet</string>
+
+    <!-- Image & Misc -->
+    <string name="my_image">NCAT logo</string>
+    <string name="enter_your_symptoms">Enter your symptoms</string>
+    <string name="get_recommendations">Get recommendations</string>
+    <string name="your_personalized_recommendations_will_appear_here">Your personalized recommendations will appear here</string>
+
+</resources>
+
